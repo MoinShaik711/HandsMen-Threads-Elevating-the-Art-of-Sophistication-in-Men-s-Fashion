@@ -1,4 +1,4 @@
-** HandsMen-Threads-Elevating-the-Art-of-Sophistication-in-Men-s-Fashion**
+# HandsMen Threads: Elevating the Art-of Sophistication in Men's Fashion
 
 ## Overview  
 This project was developed for **HandsMen Threads**, a men’s fashion brand, to improve their Salesforce setup.  
